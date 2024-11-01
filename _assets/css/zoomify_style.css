@@ -1,0 +1,8 @@
+#zoomContainer {
+	width:100%; 
+	/* height:500px; */ 
+	margin:auto; 
+	border:1px; 
+	border-style:solid; 
+	border-color:#696969;
+}
